@@ -1,4 +1,4 @@
-Atom, Logisim, OpenSCAD, Gimp, Browser, Taschenrechner?, Spiele?
+Atom, Logisim, OpenSCAD, Gimp, Git, Browser, Taschenrechner?, Spiele?
 
 
 
