@@ -1,0 +1,6 @@
+Atom, Logisim, OpenSCAD, Gimp, Browser, Taschenrechner?, Spiele?
+
+
+
+Option auf pers. Daten - cloud etc. für Anwendungen?
+-> Nutzerkonfigurationen, Packages
