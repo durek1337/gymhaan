@@ -24,7 +24,7 @@ Danach mit root-Rechten starten und zwischendurch auf notwendige Interaktionen r
 
 
 ### Mögliche Anwendungen
-* Epoptes (Sonst: https://alternativeto.net/software/epoptes/)(Gut wäre Einsicht, Steuerung und Trennen der Internetverbindung)
+* Epoptes (Sonst: https://alternativeto.net/software/epoptes/) (Gut wäre Einsicht, Steuerung und Trennen der Internetverbindung)
 * Atom (atom.sh + atom-packages.sh)
 * Logisim (logisim.sh) (Sonst: https://alternativeto.net/software/logisim/)
 * OpenSCAD
