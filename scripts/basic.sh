@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo apt install python npm git
+sudo apt install gcc npm git python
