@@ -1,6 +1,6 @@
 #!/bin/sh
 ./basic.sh
-./apache-php-mysql.sh
+./alternative-apache-php-mysql.sh
 ./atom.sh
 ./atom-packages.sh
 ./dbeaver.sh
