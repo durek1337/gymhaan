@@ -21,6 +21,7 @@ Danach mit root-Rechten starten und zwischendurch auf notwendige Interaktionen r
 * php + apache
 * gcc
 * javac
+* vim
 
 
 ### Mögliche Anwendungen
